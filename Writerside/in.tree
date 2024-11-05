@@ -3,8 +3,16 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="in"
-                 name="Instance Name"
-                 start-page="starter.md">
+                  name="Bangumi for HarmonyOS"
+                  start-page="Home.md">
 
-    <toc-element topic="starter.md"/>
+    <toc-element topic="Home.md">
+        <toc-element topic="Argument.md"/>
+        <toc-element topic="starter.md"/>
+    </toc-element>
+<!--    <toc-element topic="Download.md"/>-->
+<!--    <toc-element topic="Question.md"/>-->
+<!--    <toc-element topic="Overview.md"/>-->
+<!--    <toc-element topic="Update.md"/>-->
+    <toc-element topic="Privacy.md"/>
 </instance-profile>
