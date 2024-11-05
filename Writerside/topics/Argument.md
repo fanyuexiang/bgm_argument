@@ -260,20 +260,20 @@ Bangumi for HarmonyOS 可能为不同的终端设备开发了不同的应用程�
 
 1. 保护用户隐私是 Bangumi for HarmonyOS 的一项基本政策， Bangumi for HarmonyOS 注重保护用户的个人信息及个人隐私，
    在您下载、安装、启动、浏览、登录、登录、使用 Bangumi for HarmonyOS 时，Bangumi for HarmonyOS 将按照平台
-   公布的《[Bangumi for HarmonyOS 隐私及个人信息保护政策](https://xiaoyvyv.github.io/bangumi/lib-doc/build/starter.html)
+   公布的《[Bangumi for HarmonyOS 隐私及个人信息保护政策](https://fanxiaolu.top/bgm_argument/privacy.html)
    》保护与处理您的个人隐私，
-   希望您可阅读理解《[Bangumi for HarmonyOS 隐私及个人信息保护政策](https://xiaoyvyv.github.io/bangumi/lib-doc/build/starter.html)
+   希望您可阅读理解《[Bangumi for HarmonyOS 隐私及个人信息保护政策](https://fanxiaolu.top/bgm_argument/privacy.html)
    》来做出您的选择。
 
 2. 在您阅读并理解
-   《[Bangumi for HarmonyOS 隐私及个人信息保护政策](https://xiaoyvyv.github.io/bangumi/lib-doc/build/starter.html)
+   《[Bangumi for HarmonyOS 隐私及个人信息保护政策](https://fanxiaolu.top/bgm_argument/privacy.html)
    》后，如您不同意该政策的内容，
    可能会导致您无法正常使用“Bangumi for HarmonyOS”的部分功能，如您使用“Bangumi for HarmonyOS”，都代表您充分同意和理解
-   《[Bangumi for HarmonyOS 隐私及个人信息保护政策](https://xiaoyvyv.github.io/bangumi/lib-doc/build/starter.html)
+   《[Bangumi for HarmonyOS 隐私及个人信息保护政策](https://fanxiaolu.top/bgm_argument/privacy.html)
    》的全部内容。
 
 3. 如您对
-   《[Bangumi for HarmonyOS 隐私及个人信息保护政策](https://xiaoyvyv.github.io/bangumi/lib-doc/build/starter.html)
+   《[Bangumi for HarmonyOS 隐私及个人信息保护政策](https://fanxiaolu.top/bgm_argument/privacy.html)
    》中的内容有问题，可通过 Bangumi for HarmonyOS 的邮箱联系我们。
 
 ### 免责声明
